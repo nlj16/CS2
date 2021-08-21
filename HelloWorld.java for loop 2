@@ -1,0 +1,21 @@
+public class HelloWorld {
+  public static void main(String[] args) {
+  
+    
+   for(int i = 111;i <= 111;i = i - 1) {
+   if(i == 103){
+      break;
+       }
+       System.out.println (i);
+
+  
+  
+  
+  
+  
+  }//for
+  
+  
+  }//main
+  
+}//class
